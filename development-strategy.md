@@ -1,26 +1,21 @@
 # Development Strategy
 
-> `name-of-project`
+<h3> App-Theme Website Project</h1>
 
-write a short description of your project:
-- who would want to use it?
+This is a very short description of we go throught during the phase of the development plan project:
+The users of this website are the mates and coaches
 - why would they want to use it?
 
-## Wireframe
+# Technologies Used 
+    # CSS for scripting
+    # HTML for page structure and design
+    # Github for collaboration with mates and coaches
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
-
-## 0. Set-Up
-
-__A User can see my initial repository and live demo__
 
 ### Repo
 
-- Generate from Template
-- Write initial, basic README
-- Turn on GitHub Pages
+- [ ]  <a href="https://github.com/SolomunWelday/app-theme">App-Theme Repo</a>
+- [ ] <a href="https://solomunwelday.github.io/app-theme/">Version 0.1</a>
 
 ## 1. __
 
